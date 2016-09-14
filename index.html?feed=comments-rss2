@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments for LabFiles at LightningRod Labs</title>
+	<atom:link href="http://www.lightningrodlabs.com/?feed=comments-rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.lightningrodlabs.com</link>
+	<description>Seat of the pants engineering on a shoe-string budget</description>
+	<lastBuildDate>Mon, 07 Jul 2008 03:09:50 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6</generator>
+	<item>
+		<title>Comment on greetings from Rod by jeremy</title>
+		<link>http://www.lightningrodlabs.com/?page_id=29&#038;cpage=1#comment-4</link>
+		<dc:creator>jeremy</dc:creator>
+		<pubDate>Mon, 07 Jul 2008 03:09:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.lightningrodlabs.com/?page_id=29#comment-4</guid>
+		<description><![CDATA[You never told me about the generator radio!  In fact, I&#039;m not sure which of the bedrooms was yours in high school.  Does the anchor tree still stand?]]></description>
+		<content:encoded><![CDATA[<p>You never told me about the generator radio!  In fact, I&#8217;m not sure which of the bedrooms was yours in high school.  Does the anchor tree still stand?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Sharpening a Reel Mower by LabFiles at LightningRod Labs &#187; Blog Archive &#187; Sharpening a Reel Mower</title>
+		<link>http://www.lightningrodlabs.com/?page_id=10&#038;cpage=1#comment-3</link>
+		<dc:creator>LabFiles at LightningRod Labs &#187; Blog Archive &#187; Sharpening a Reel Mower</dc:creator>
+		<pubDate>Mon, 16 Jun 2008 17:38:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.lightningrodlabs.com/?page_id=10#comment-3</guid>
+		<description><![CDATA[[...] Okay, maybe we drink beer while we&#8217;re doing it, too.  Regardless of that, for 2008, we decided to document the easy way to sharpen a reel mower &#8212; potentially saving you $60+ over a professional sharpening, while still making the mower every bit as sharp.  Click here for more. [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Okay, maybe we drink beer while we&#8217;re doing it, too.  Regardless of that, for 2008, we decided to document the easy way to sharpen a reel mower &#8212; potentially saving you $60+ over a professional sharpening, while still making the mower every bit as sharp.  Click here for more. [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Small, red, drives like it&#8217;s on a rail by LabFiles at LightningRod Labs &#187; Blog Archive &#187; Looks like Rod got himself a father&#8217;s day present&#8230;</title>
+		<link>http://www.lightningrodlabs.com/?page_id=4&#038;cpage=1#comment-2</link>
+		<dc:creator>LabFiles at LightningRod Labs &#187; Blog Archive &#187; Looks like Rod got himself a father&#8217;s day present&#8230;</dc:creator>
+		<pubDate>Mon, 16 Jun 2008 16:14:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.lightningrodlabs.com/?page_id=4#comment-2</guid>
+		<description><![CDATA[[...] Click here to get a look at Rod&#8217;s new car. [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Click here to get a look at Rod&#8217;s new car. [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

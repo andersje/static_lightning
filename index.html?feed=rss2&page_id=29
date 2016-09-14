@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: greetings from Rod</title>
+	<atom:link href="http://www.lightningrodlabs.com/?feed=rss2&#038;page_id=29" rel="self" type="application/rss+xml" />
+	<link>http://www.lightningrodlabs.com</link>
+	<description>Seat of the pants engineering on a shoe-string budget</description>
+	<lastBuildDate>Mon, 07 Jul 2008 03:09:50 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6</generator>
+	<item>
+		<title>By: jeremy</title>
+		<link>http://www.lightningrodlabs.com/?page_id=29&#038;cpage=1#comment-4</link>
+		<dc:creator>jeremy</dc:creator>
+		<pubDate>Mon, 07 Jul 2008 03:09:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.lightningrodlabs.com/?page_id=29#comment-4</guid>
+		<description><![CDATA[You never told me about the generator radio!  In fact, I&#039;m not sure which of the bedrooms was yours in high school.  Does the anchor tree still stand?]]></description>
+		<content:encoded><![CDATA[<p>You never told me about the generator radio!  In fact, I&#8217;m not sure which of the bedrooms was yours in high school.  Does the anchor tree still stand?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
